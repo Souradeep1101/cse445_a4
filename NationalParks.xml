@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="NationalParks.xsd">
   
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
@@ -65,14 +65,14 @@
   </NationalPark>
 
   <NationalPark>
-    <Name>Acadia</Name>
-    <Phone>207-288-3338</Phone>
-    <Address NearestAirport="Hancock County-Bar Harbor">
-      <Number>25</Number>
-      <Street>Visitor Center Road</Street>
-      <City>Bar Harbor</City>
-      <State>ME</State>
-      <Zip>04609</Zip>
+    <Name>Olympic</Name>
+    <Phone>360-565-3130</Phone>
+    <Address NearestAirport="William R. Fairchild International">
+      <Number>3002</Number>
+      <Street>Mount Angeles Road</Street>
+      <City>Port Angeles</City>
+      <State>WA</State>
+      <Zip>98362</Zip>
     </Address>
   </NationalPark>
 
